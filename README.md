@@ -75,12 +75,13 @@ qa-todo-app/
 ├── test_cases.md    # Complete test suite
 ├── bug_reports.md   # Bug documentation
 └── README.md        # Application documentation and a brief explanation
-
+```
 ## 🚀 Quick Start
 
 1. Clone the repository:
    ```bash
    https://github.com/hermuti/qa-Todo-app.git
+   ```
 Navigate to the project directory:
 
 bash
