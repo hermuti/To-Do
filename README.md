@@ -67,7 +67,7 @@ This project includes complete QA documentation demonstrating testing methodolog
 
 ## 📁 Project Structure
 
-
+```text
 qa-todo-app/
 ├── index.html       # Main application file
 ├── style.css        # Stylesheets
