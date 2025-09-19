@@ -67,19 +67,20 @@ This project includes complete QA documentation demonstrating testing methodolog
 
 ## 📁 Project Structure
 
+
 qa-todo-app/
-├── index.html # Main application file
-├── style.css # Stylesheets
-├── script.js # Application logic
-├── test_cases.md # Complete test suite
-├── bug_reports.md # Bug documentation
-└── README.md # Application documentation and a brief explanation
+├── index.html       # Main application file
+├── style.css        # Stylesheets
+├── script.js        # Application logic
+├── test_cases.md    # Complete test suite
+├── bug_reports.md   # Bug documentation
+└── README.md        # Application documentation and a brief explanation
 
 ## 🚀 Quick Start
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/qa-todo-app.git
+   https://github.com/hermuti/qa-Todo-app.git
 Navigate to the project directory:
 
 bash
